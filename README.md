@@ -1,4 +1,9 @@
-classification of iris flower using knn algorithm.
+Hey! Tushar this side.
+Student of Msc Artificial Intelligence in Medicine from Delhi Pharmaceutical Sciences and Research University.
+Completed my Bachelors in Life SCiences from Kirori Mal College , Delhi University.
+
+Interested in Machine Learning , Deep Learning , GENAI .
+
 
 <!---
 tusharpandey003/tusharpandey003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
