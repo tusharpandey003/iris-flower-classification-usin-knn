@@ -1,6 +1,6 @@
 Hey! Tushar this side.
-Student of Msc Artificial Intelligence in Medicine from Delhi Pharmaceutical Sciences and Research University.
-Completed my Bachelors in Life SCiences from Kirori Mal College , Delhi University.
+Student of MSc Artificial Intelligence in Medicine from Delhi Pharmaceutical Sciences and Research University.
+Completed my Bachelors in Life Sciences from Kirori Mal College , Delhi University.
 
 Interested in Machine Learning , Deep Learning , GENAI .
 
